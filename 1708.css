@@ -1,0 +1,119 @@
+
+body{
+    background: url(./images.jpeg) ;
+    background-size:auto;
+}
+    header{
+    background-color: blue;
+    height: 70px;
+    width: 100%;
+    padding: 5px;
+    margin: 10px 10px;
+    border: 2px solid black;
+    position: fixed;
+    top: 0em;
+
+}
+h1{
+    color: white;
+    display: inline;
+    text-align: left;
+}
+#A{
+    color: white;
+    display: inline;
+    text-align: right;
+    margin-left: 280px;
+
+}
+a{
+    color: white;
+}
+.div1{
+    background:linear-gradient(to right, #d8421d , rgba(19, 145, 173, 0.874), rgb(197, 21, 21)) ;
+    height: 100px;
+    width: 90%;
+    padding: 5px;
+    margin:130px 10px 30px 30px;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 1em;
+    position: sticky;
+    top: 7em;
+
+
+}
+.div2{
+    background-color: aqua;
+    padding: 5px;
+    margin: 10px px 10px 30px;
+    border: 2px solid black;
+    height: 720px;
+    width: 90%;
+    text-align: center;
+    border-radius: 1em;
+}
+#para1{
+    color: white;
+    width: 100%;
+    margin-top: 10px;
+    text-align: left;
+
+}
+#para2{
+    color: white;
+    width: 100%;
+    margin-top:20px ;
+    text-align: center;
+}
+#para3{
+    color: white;
+    width: 100%;
+    text-align: right;
+
+}
+img{
+    border: 2px dotted brown;
+    
+}
+#img1{
+    background-color:cornflowerblue;
+    display: block;
+    width: 200px;
+    height: 200px;
+    padding: 0px 530.5px;
+    border: 2px solid black;
+    margin: 10px 10px;
+}
+
+#img2{
+    background-color: coral;
+    display: block;
+    border: 2px solid black;
+    margin: 10px 10px;
+    width: 96.5%;
+    height: 200px;
+    object-fit: fill;
+}
+#img3{
+    background-color: coral;
+    display: block;
+    border: 2px solid black;
+    margin: 10px 10px;
+    width: 96.5%;
+    height: 200px;
+    object-fit: cover;
+}
+p{
+    color: white;
+    padding-left: 5px;
+    width: 100%;
+}
+#bpara{
+    color: white;
+    background-color: blueviolet;
+    padding-left: 20px;
+    width: 100%;
+    font-size: large;
+
+}
